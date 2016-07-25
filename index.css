@@ -18,5 +18,12 @@ width:100px
 }
 
 #K1{
-background-image
+background-image:url("Tree.jpg");
+background-size:cover;
+background-repeat:no-repeat;
+position: relative;
+left: 300px;
+top: 1000px;
+height: 100px;
+width: 200px;
 }
